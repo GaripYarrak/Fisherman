@@ -3,7 +3,7 @@ An Albion online fishing bot
 
 Discord Server for support and help with this bot!
 
-[https://discord.gg/J3YhZEUm5E](https://discord.gg/bQ9HPchuA)
+https://discord.gg/Et87u4m899 | https://vmpwn.com
 
 Fisherman is a free open source fishing bot written in python.
 
